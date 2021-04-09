@@ -64,6 +64,26 @@ const data = () => {
       active: false,
     },
     //ADD MORE HERE
+    {
+      name: 'Maple',
+      cover:
+        'https://chillhop.com/wp-content/uploads/2021/02/7f102bdde417f6ead9a120b2b931449e5c12b4da-1024x1024.jpg',
+      artist: 'Arbour, Aarigod',
+      audio: 'https://mp3.chillhop.com/serve.php/?mp3=13012',
+      color: ['#56E2DA', '#CDEF8F'],
+      id: uuidv4(),
+      active: false,
+    },
+    {
+      name: 'Barrows',
+      cover:
+        'https://chillhop.com/wp-content/uploads/2021/02/7f102bdde417f6ead9a120b2b931449e5c12b4da-1024x1024.jpg',
+      artist: 'Aarigod',
+      audio: 'https://mp3.chillhop.com/serve.php/?mp3=13002',
+      color: ['#56E2DA', '#CDEF8F'],
+      id: uuidv4(),
+      active: false,
+    },
   ];
 };
 
